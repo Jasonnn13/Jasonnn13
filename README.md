@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Benedictus Jason</h1>
+tusjason25@gmail.com<h1 align="center">Hi! I'm Benedictus Jason</h1>
 
 ###
 
