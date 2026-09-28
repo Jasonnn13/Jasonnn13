@@ -24,39 +24,6 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # The public github-readme-stats instance is paused, so render the cards here instead
-      - name: Generate Stats Card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide=stars&show=prs_merged&hide_rank=true&hide_border=true&theme=github_dark
-          path: dist/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Stats Card (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide=stars&show=prs_merged&hide_rank=true&hide_border=true&theme=default
-          path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Top Languages Card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=github_dark
-          path: dist/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Top Languages Card (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=default
-          path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Push Generated Files to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

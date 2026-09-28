@@ -27,17 +27,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jasonnn13/Jasonnn13/output/stats-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Jasonnn13/Jasonnn13/output/stats.svg" height="165" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jasonnn13/Jasonnn13/output/top-langs-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Jasonnn13/Jasonnn13/output/top-langs.svg" height="165" alt="Top languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jasonnn13&theme=github-dark-blue&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=Jasonnn13&theme=default&hide_border=true" alt="GitHub streak" />
   </picture>
