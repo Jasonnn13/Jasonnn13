@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi!%20I'm%20Benedictus%20Jason&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Engineering&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="Hi! I'm Benedictus Jason. AI, Machine Learning, Data Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi!%20I'm%20Benedictus%20Jason&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Hi! I'm Benedictus Jason" />
 
 <div align="center">
   <a href="https://github.com/Jasonnn13">
