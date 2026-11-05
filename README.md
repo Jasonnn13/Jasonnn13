@@ -32,13 +32,6 @@
   </picture>
 </p>
 
-### 🐍 Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jasonnn13/Jasonnn13/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Jasonnn13/Jasonnn13/output/snake.svg" alt="Snake eating my contribution graph" />
-</picture>
-
 ### 📫 Contacts
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=benedictusjason25@gmail.com&tf=cm" target="_blank">
